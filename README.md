@@ -1,4 +1,4 @@
-#Africaweb3hub
+Africaweb3hub
 
 Scaling Web3 Adoption in Africa Through Open-Source Innovation
 
