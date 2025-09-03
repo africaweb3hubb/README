@@ -1,10 +1,16 @@
-Africaweb3hub
+` AfricaWeb3Hub`
 
 Scaling Web3 Adoption in Africa Through Open-Source Innovation
 
 This GitHub organization is the technical engine of the broader Africaweb3hub community. We build the open-source tools, educational content, and infrastructure to onboard the next million African users and developers onto decentralized technologies, starting with the Solana blockchain.
 
-https://img.shields.io/badge/Website-Africaweb3hub-brightgreen https://img.shields.io/twitter/follow/kingofcongo11?style=social https://img.shields.io/badge/Discord-Join%20Our%20Community-7289DA
+X/Twitter: https://x.com/kingofcongo11
+
+Founder LinkedIn: https://www.linkedin.com/in/prince-kayenga-884a69b8
+
+WhatsApp Group: https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
+
+Telegram Groupe: https://t.me/africaweb3hub
 
 ---
 
