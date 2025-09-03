@@ -8,7 +8,7 @@ This GitHub organization is the technical engine of the broader Africaweb3hub co
 
 `Founder LinkedIn`: https://www.linkedin.com/in/prince-kayenga-884a69b8
 
-`WhatsApp Group: https`://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
+`WhatsApp Group: https`: https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
 
 `Telegram Groupe`: https://t.me/africaweb3hub
 
