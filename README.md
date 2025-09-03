@@ -1,6 +1,6 @@
-` AfricaWeb3Hub`
+# **AfricaWeb3Hub**
 
-Scaling Web3 Adoption in Africa Through Open-Source Innovation
+## Scaling Web3 Adoption in Africa Through Open-Source Innovation
 
 This GitHub organization is the technical engine of the broader Africaweb3hub community. We build the open-source tools, educational content, and infrastructure to onboard the next million African users and developers onto decentralized technologies, starting with the Solana blockchain.
 
@@ -14,7 +14,7 @@ This GitHub organization is the technical engine of the broader Africaweb3hub co
 
 ---
 
- `Our Traction: Proven Impact`
+## `Our Traction: Proven Impact`
 
 Africaweb3hub isn't just an idea; it's a movement with measurable results. Our community-driven approach has already achieved significant scale:
 
@@ -26,7 +26,7 @@ Africaweb3hub isn't just an idea; it's a movement with measurable results. Our c
 
 We've achieved this with minimal funding. Now, we're leveraging this proven foundation to accelerate Solana adoption.
 
- `Our Solana Mission`
+## `Our Solana Mission`
 
 Our new mission is to become the foremost hub for Solana development and adoption in Francophone Africa. We are executing a three-pillar strategy:
 
@@ -36,16 +36,16 @@ Our new mission is to become the foremost hub for Solana development and adoptio
 
 Vision: To bridge the gap between Solana's high-performance technology and the vast, untapped potential of Francophone Africa's developers and entrepreneurs.
 
- `Tech Stack`
+## `Tech Stack`
 
- `Our projects primarily utilize:`
+### `Our projects primarily utilize:`
 
 · Blockchain: Solana, Rust, Anchor Framework
 · Frontend: Next.js, React, TypeScript
 · Libraries: @solana/web3.js, @solana/wallet-adapter, @solana/pay
 · Infrastructure: Vercel, GitHub Actions, Solana Devnet/Testnet
 
- `Repository Overview`
+### `Repository Overview`
 
 Repository Description Status
 solana-docs-fr Official Solana documentation translated into French. Active
@@ -53,46 +53,47 @@ solana-docs-sw Official Solana documentation translated into Swahili. Planning
 solana-pay-africa A toolkit for integrating Solana Pay with African mobile money providers. Active
 solana-bootcamp-101 Curriculum for our "Zero to Solana DApp" 8-week bootcamp. Active
 
- `How to Contribute`
+## `How to Contribute`
 
 Africaweb3hub is a public good. We welcome contributors of all skill levels. Here’s how you can help:
 
- `For Developers`
+### `For Developers`
 
 · Code: Help us build tools in the solana-pay-africa kit or improve our demo dApps.
 · Review: Submit Pull Requests to fix bugs, improve code quality, or add features.
 · Test: Test our tools and tutorials on different devices and networks and report issues.
 
-  `For Translators & Educators`
+###  `For Translators & Educators`
 
 · Translate: Help us translate Solana documentation and tutorials into French and Swahili. Start in the solana-docs-fr repo.
 · Create: Develop new educational content, video tutorials, or code examples tailored for African learners.
 
-  `For Evangelists & Community Builders`
+###  `For Evangelists & Community Builders`
 
 · Share: Spread the word about our projects on Twitter, LinkedIn, and within your local tech communities.
 · Support: Help answer questions from newcomers in our Discord and Telegram channels.
 · Mentor: Volunteer as a mentor for our upcoming bootcamps and hackathons.
 
- `First Steps:`
+### `First Steps:`
 
 1. Fork the repository you're interested in.
 2. Check the Issues tab for good first issues or ideas.
 3. Submit a Pull Request when you're ready. Please read our Contributing Guidelines first.
 
-  `Get in Touch & Join the Community`
+#  `Get in Touch & Join the Community`
 
-· Founder: Prince Kayenga
-· Website: Africaweb3hub.com (Coming Soon)
-· Twitter: https://x.com/kingofcongo11
-· Discord: Join our Server (Primary community hub. Coming Soon)
-· Telegram: https://t.me/africaweb3hub
-· Email: princecongocryptomonnaie@gmail.com
+#### · Founder: Prince Kayenga
+#### · Website: Africaweb3hub.com (Coming Soon)
+#### · Twitter: https://x.com/kingofcongo11
+#### · Discord: Join our Server (Primary community hub. Coming Soon)
+#### · Telegram: https://t.me/africaweb3hub
+#### · Email: princecongocryptomonnaie@gmail.com
 
- `License`
+## `License`
 
 All repositories in this organization are licensed under the permissive MIT License unless otherwise specified. By contributing, you agree that your contributions will be licensed under the same license.
 
 ---
 
- `Disclaimer:` Africaweb3hub is an independent community initiative. It is not officially affiliated with Solana Labs or the Solana Foundation, but we are proud to be building on and supporting their ecosystem.
+## `Disclaimer` 
+Africaweb3hub is an independent community initiative. It is not officially affiliated with Solana Labs or the Solana Foundation, but we are proud to be building on and supporting their ecosystem.
